@@ -1,0 +1,23 @@
+package cursojava.executavel;
+
+public class PrimeiraClasseJava {
+
+	/* main e um metodo auto executavel em Java */
+	public static void main(String[] args) {
+
+
+		/*String no java sempre sera um Texto do tamanho qualquer*/
+		String textoQualquer = "eiahasuhduiahuihauihsiuahaiu";
+		
+		System.out.println("textoQualquer");
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package cursojava.executavel;
+
+public class PrimeiraClasseJava {
+	/*main e um metodo auto executavel em Java*/
+ public static void main(String[] args) {
+	 
+	 /*Escreve teste no console*/
+		 System.out.println("melissa piquines");
+		 System.out.println("Gaby jacaroa");
+      }
+}

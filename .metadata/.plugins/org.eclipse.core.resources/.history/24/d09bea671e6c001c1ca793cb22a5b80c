@@ -1,0 +1,28 @@
+package cursojava.executavel;
+
+public class PrimeiraClasseJava {
+
+	/* main e um metodo auto executavel em Java */
+	public static void main(String[] args) {
+
+
+		/*concatenaçao = unir ou juntar dados*/
+		String nome = "Kestner faria";
+		String cpf = "384-740-328-14";
+		String telefone = "19 99841-1773";
+		String endereco = "Piracica - SP";
+		
+		System.out.printlv(nome + cpf);
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

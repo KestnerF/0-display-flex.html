@@ -1,0 +1,23 @@
+package cursojava.executavel;
+
+public class PrimeiraClasseJava {
+
+	/* main e um metodo auto executavel em Java */
+	public static void main(String[] args) {
+
+		/* CHAR representa uma letra */
+		char pessoaFisica = 'F';
+
+		if(pessoaFisica == 'F') {
+			System.out.println("Fisica");
+			
+		}else {
+			System.out.println("masculino");
+		}
+		
+		
+		
+		
+	}
+
+}

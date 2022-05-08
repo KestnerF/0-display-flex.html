@@ -1,0 +1,17 @@
+package programando1.classes;
+
+public class Matriz {
+	
+	/*Executar codigo java*/
+	public static void main(String[] args) {
+		
+		
+		int notas [][] = new int [1][3];
+		
+		notas [0[] = 80;
+		notas [][] = 90;
+		notas [][] = 70;
+		
+	}
+
+}
